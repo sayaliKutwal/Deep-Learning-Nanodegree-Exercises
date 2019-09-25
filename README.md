@@ -10,3 +10,6 @@ The folders are arranged according to the lessons in nanodegree. </br>
 4. Recurrent Neural Networks
 5. Generative Adersarial Networks
 6. Deploying Model
+</br>
+Link to the nanodegree is https://www.udacity.com/course/deep-learning-nanodegree--nd101  </br>
+My projects for the nandegree can be found here https://github.com/sayaliKutwal/Deep-Learning-Nanogedree-Projects </br>
